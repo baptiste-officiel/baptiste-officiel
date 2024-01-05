@@ -9,7 +9,7 @@ Je suis un développeur React/Next de 25 ans résidant en France. Je suis passio
 
 ### 🌱 Situation actuelle
 
-🚀 Je travaille en ce moment en tant que développeur freelance sur un projet fullstack. 
+🚀 Je travaille en ce moment en tant que développeur freelance sur un projet fullstack.
 💻 Je découvre de nouveaux frameworks afin de renforcer mes connaissances.
 
 
