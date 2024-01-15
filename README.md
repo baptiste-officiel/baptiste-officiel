@@ -3,7 +3,7 @@
 Je suis un développeur React/Next de 25 ans résidant en France. Je suis passionné par la création d'applications web et toujours à la recherche des meilleures expériences utilisateur.
 
 - Venez sur mon [portfolio](https://www.baptistelejeune.fr/) pour en apprendre plus sur moi.
-- Rejoignez moi sur [Instagram]() et [LinkedIn](https://www.linkedin.com/in/baptiste-lejeune/) pour suivre mon aventure.
+- Rejoignez moi sur [Instagram](https://www.instagram.com/bapt.codes/) et [LinkedIn](https://www.linkedin.com/in/baptiste-lejeune/) pour suivre mon aventure.
 
 &nbsp;
   
@@ -16,7 +16,7 @@ Je suis un développeur React/Next de 25 ans résidant en France. Je suis passio
 
 ### 📫 Contact
 
-Si vous voulez une discussion rapide, contactez moi sur [Instagram]() ou [LinkedIn](https://www.linkedin.com/in/baptiste-lejeune/).
+Si vous voulez une discussion rapide, contactez moi sur [Instagram](https://www.instagram.com/bapt.codes/) ou [LinkedIn](https://www.linkedin.com/in/baptiste-lejeune/).
 
 Pour un projet professionnel, envoyez mopi un mail à <baptiste.lejeune.dev@gmail.com>
 <!--
